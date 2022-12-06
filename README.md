@@ -1,4 +1,4 @@
-# Spring Microservices - REST + Microservices + Spring Boot + Spring Cloud + Docker + Kubernetes
+# Spring Microservices = REST + Microservices + Spring Boot + Spring Cloud + Docker + Kubernetes
 
 ## URLS
 
