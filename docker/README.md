@@ -32,11 +32,8 @@
 #### Commands
 ```
 docker run -p 9411:9411 openzipkin/zipkin:2.23
-docker push docker.io/in28min/mmv2-currency-exchange-service:0.0.1-SNAPSHOT
+docker push shivansh740/currency-conversion-service.jar:tagname
+docker push shivansh740/currency-exchange-service.jar:tagname
 docker-compose --version
 docker-compose up
-docker push in28min/mmv2-naming-server:0.0.1-SNAPSHOT
-docker push in28min/mmv2-currency-conversion-service:0.0.1-SNAPSHOT
-docker push in28min/mmv2-api-gateway:0.0.1-SNAPSHOT
-watch -n 0.1 curl http://localhost:8000/sample-api
 ```
