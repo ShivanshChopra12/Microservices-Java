@@ -9,7 +9,7 @@ Orchestration platform: Kubernetes
 
 ![image](https://user-images.githubusercontent.com/102555294/224428801-28c631e2-f3d4-431f-9344-16fa1b863155.png)
 
-Two microservices were created with the help of the spring boot framework.​​
+Two microservices were created with the help of the spring boot framework. ​​
 
 The (light weight) database i.e. H2 ​has been used.​
 
